@@ -1,4 +1,7 @@
 # Complex Hello Worlds
 
 A Collection Of Complex Hello World Scripts!
-Feel Free To Contribute!
+
+## Contributing
+- Make sure its unique
+- Have Fun :D
